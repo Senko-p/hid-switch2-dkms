@@ -16,7 +16,7 @@ example:
 
 ## Other Distros
 
-Download the source and install manually using dkms
+Download the source, install manually using dkms and apply udev rules
 
 
 # Credits 
@@ -25,6 +25,6 @@ Based on a mailing list e-mail from Vicki Pfau <vi@endrift.com> with minor modif
 
 # known bugs
 
-IMU Donst work, face buttons may be bind incorrectly, just rebind them through steam.
+IMU Doesn't work, face buttons may be bind incorrectly, just rebind them through steam.
 
 if anyone wants to add a distro or change something, feel free to do so
